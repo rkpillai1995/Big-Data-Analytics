@@ -4,7 +4,7 @@ import  matplotlib.pyplot as plt
 import numpy as np
 
 """
-file: q3.py
+
 CSCI-720:  Big data analytics
 Author: Rajkumar Lenin Pillai
 
