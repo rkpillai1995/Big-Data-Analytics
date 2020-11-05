@@ -5,7 +5,7 @@ from scipy import stats
 import  matplotlib.pyplot as plt
 
 """
-file: q2.py
+
 CSCI-720:  Big data analytics
 Author: Rajkumar Lenin Pillai
 
