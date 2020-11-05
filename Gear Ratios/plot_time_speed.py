@@ -5,7 +5,7 @@ import numpy as np
 
 
 """
-file: q1.py
+
 CSCI-720:  Big data analytics
 Author: Rajkumar Lenin Pillai
 
