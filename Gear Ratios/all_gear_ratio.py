@@ -6,7 +6,7 @@ import matplotlib.patches as mpatches
 
 
 """
-file: q3.py
+
 CSCI-720:  Big data analytics
 Author: Rajkumar Lenin Pillai
 
